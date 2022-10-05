@@ -64,8 +64,7 @@ nav li {
   font-size: 1.5em;
   font-family: Geneva, Arial, sans-serif;
   font-weight: bold;
-  border-width: 0.5px;
-  color: #f6eee4;
+  border-top: 0.5px solid #f6eee4;
 }
 
 nav li a {
@@ -128,7 +127,7 @@ a:link {
   background-color: #2a1f14;
   padding: 2%;
   width: 80%;
-  margin: 0, auto;
+  margin: 0% auto;
 }
 
 .tel-link a {
